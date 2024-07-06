@@ -9,7 +9,6 @@ import (
 
 	"github.com/Reaper1994/go-file-storage-service/db"
 	"go.mongodb.org/mongo-driver/bson"
-	"go.mongodb.org/mongo-driver/mongo"
 )
 
 type XMLData struct {
